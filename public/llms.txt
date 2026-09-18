@@ -1,0 +1,31 @@
+# Pix Engineer
+
+> AI-powered platform to build full-stack web apps from text prompts, convert designs to production-ready code, and craft AI prompts — all in one place.
+
+Pix Engineer combines three tools for product builders and developers: an AI App Builder that turns prompts into working Next.js / React / HTML apps, a Design-to-Code converter that turns screenshots, wireframes, and Figma exports into responsive HTML / Tailwind / React code, and a Prompt Engineer that generates, improves, and analyzes prompts for LLMs.
+
+## Pages
+
+- [Home — AI App Builder](/): Generate full-stack apps from natural-language prompts.
+- [Design to Code](/design-to-code): Upload a design and get pixel-perfect, responsive code.
+- [Prompt Engineer](/prompt-engineer): Generate, improve, and analyze prompts for any LLM.
+- [Pricing](/pricing): Free tier plus credit-based plans.
+- [About](/about): What Pix Engineer is and who it's for.
+- [Contact](/contact): Support, partnerships, and inquiries.
+- [Blog](/blog): Tutorials and articles on AI app building, design-to-code, and prompt engineering.
+
+## Blog highlights
+
+- [How to build a full-stack app with AI in 60 seconds](/blog/build-full-stack-app-ai-60-seconds)
+- [How to build a SaaS landing page with AI](/blog/build-saas-landing-page-with-ai)
+- [Converting Figma designs to React components](/blog/converting-figma-designs-to-react-components)
+- [AI prompt engineering for developers](/blog/ai-prompt-engineering-for-developers)
+- [Design to code: wireframe to HTML & CSS](/blog/design-to-code-wireframe-to-html-css)
+- [No-code vs AI code generation in 2026](/blog/no-code-vs-ai-code-generation-2026)
+- [Prompt engineering 101 — write better AI prompts](/blog/prompt-engineering-101-write-better-ai-prompts)
+
+## Optional
+
+- [Terms & Conditions](/terms)
+- [Privacy Policy](/privacy)
+- [Refund Policy](/refund-policy)

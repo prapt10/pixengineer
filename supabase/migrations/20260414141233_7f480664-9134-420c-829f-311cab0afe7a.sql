@@ -1,0 +1,1 @@
+UPDATE platform_config SET value = 'openai/gpt-4o' WHERE key = 'prompt_engineer_model';
